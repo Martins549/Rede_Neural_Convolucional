@@ -2,7 +2,10 @@
 
 - Pesquisa acadêmica com o objetivo de comparar Rendes Neurais Convolucionais aplicadas para a classificação de imagens.
 
-- Redes Neurais Convolucionais AlexNet, GoogleNet e SeNet.
+- Redes Neurais Convolucionais: 
+  AlexNet
+  GoogleNet
+  SeNet
 
 ## Como rodar a aplicação/testes
 
@@ -26,13 +29,15 @@
 
 ## Referencias
 
-- https://github.com/Cadene/pretrained-models.pytorch
+- [Repositorio pretrained-models] https://github.com/Cadene/pretrained-models.pytorch
+- [IMAGENET] https://image-net.org/challenges/LSVRC/2013/
 - Olga Russakovsky *, Jia Deng *, Hao Su, Jonathan Krause, Sanjeev Satheesh, Sean Ma, Zhiheng Huang, Andrej Karpathy, Aditya Khosla, Michael Bernstein, Alexander C. Berg e Li Fei-Fei. (* = contribuição igual) Desafio de reconhecimento visual em grande escala da ImageNet. IJCV, 2015. 
-- https://image-net.org/challenges/LSVRC/2013/
+- xxxxxxxxxxxxxxxxxxx AlexNet xxxxxxxxxxxxxxxxxxxx
+- xxxxxxxxxxxxxxxxxxx GoogleNet xxxxxxxxxxxxxxxxxx
+- xxxxxxxxxxxxxxxxxxx SeNet xxxxxxxxxxxxxxxxxxxxxx
+ 
+### Proposto para a Faculdade de Engenharia da Computação (FECOMP) da Universidade Federal do Pará (UFPA)
 
-
-#### Proposto para a Faculdade de Engenharia da Computação (FECOMP) da Universidade Federal do Pará (UFPA)
-
-### Elaborado por Formatado por Edson Martins Cavalcante
+#### Elaborado por Edson Martins Cavalcante
     
  
