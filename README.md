@@ -26,7 +26,7 @@
 
 
 #### Universidade Federal do Pará (UFPA)
-#### Faculdade de Engenharia da Computação (FECOMP)
-#### Formatado por Edson Martins Cavalcante
+## Faculdade de Engenharia da Computação (FECOMP)
+## Formatado por Edson Martins Cavalcante
     
  
