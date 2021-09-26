@@ -25,8 +25,8 @@
 5. `python setup.py install`
 
 
-# Universidade Federal do Pará (UFPA)
-# Faculdade de Engenharia da Computação (FECOMP)
-# Formatado por Edson Martins Cavalcante
+#### Universidade Federal do Pará (UFPA)
+#### Faculdade de Engenharia da Computação (FECOMP)
+#### Formatado por Edson Martins Cavalcante
     
  
