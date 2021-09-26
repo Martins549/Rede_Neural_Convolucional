@@ -1,2 +1,3 @@
 # Rede_Neural_Convolucional
-Reprodução das Redes Neurais Convolucionais AlexNet, GoogleNet e SeNet.
+
+Pesquisa academica com o objetivo de reproduzir as Redes Neurais Convolucionais AlexNet, GoogleNet e SeNet.
