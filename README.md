@@ -1,8 +1,12 @@
 # Rede_Neural_Convolucional
 
-Pesquisa academica com o objetivo de reproduzir as Redes Neurais Convolucionais AlexNet, GoogleNet e SeNet.
+- Pesquisa academica com o objetivo de fazer uma análise comparativa entre Rendes Neurais Convolucionais aplicadas para a classificação de imagens
 
-## Instalação da IDE Anaconda
+- Redes Neurais Convolucionais AlexNet, GoogleNet e SeNet.
+
+## Como rodar a aplicação/testes
+
+### Instalação da IDE Anaconda
 
 1. [python3 with anaconda](https://www.continuum.io/downloads)
 
@@ -21,6 +25,8 @@ Pesquisa academica com o objetivo de reproduzir as Redes Neurais Convolucionais 
 5. `python setup.py install`
 
 
-    Autor
+#Universidade Federal do Pará (UFPA)
+Faculdade de Engenharia da Computação (FECOMP)
+Formatado por Edson Martins Cavalcante
     
  
