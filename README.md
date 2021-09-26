@@ -1,6 +1,6 @@
 # Rede_Neural_Convolucional
 
-- Pesquisa academica com o objetivo de fazer uma análise comparativa entre Rendes Neurais Convolucionais aplicadas para a classificação de imagens
+- Pesquisa acadêmica com o objetivo de comparar Rendes Neurais Convolucionais aplicadas para a classificação de imagens.
 
 - Redes Neurais Convolucionais AlexNet, GoogleNet e SeNet.
 
@@ -25,8 +25,8 @@
 5. `python setup.py install`
 
 
-#Universidade Federal do Pará (UFPA)
-Faculdade de Engenharia da Computação (FECOMP)
-Formatado por Edson Martins Cavalcante
+# Universidade Federal do Pará (UFPA)
+# Faculdade de Engenharia da Computação (FECOMP)
+# Formatado por Edson Martins Cavalcante
     
  
