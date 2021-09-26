@@ -2,23 +2,25 @@
 
 Pesquisa academica com o objetivo de reproduzir as Redes Neurais Convolucionais AlexNet, GoogleNet e SeNet.
 
-Installation
+## Instalação da IDE Anaconda
 
-    python3 with anaconda
-    pytorch with/out CUDA
+1. [python3 with anaconda](https://www.continuum.io/downloads)
 
-Install from pip
+###  Instalação da Biblioteca Pytorch
 
-    pip install pretrainedmodels
+2. [pytorch with/out CUDA](http://pytorch.org)
 
-Install from repo
+###  Instalação do pip
 
-    git clone https://github.com/Cadene/pretrained-models.pytorch.git
-    cd pretrained-models.pytorch
-    python setup.py install
+3. `pip install pretrainedmodels`
 
-    Pré-requisitos e como rodar a aplicação/testes
-    Tecnologias utilizadas
+### Instalação do repositório
+
+3. `git clone https://github.com/Cadene/pretrained-models.pytorch.git`
+4. `cd pretrained-models.pytorch`
+5. `python setup.py install`
+
+
     Autor
     
  
