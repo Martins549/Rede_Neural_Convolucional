@@ -20,13 +20,19 @@
 
 ### Instalação do repositório
 
-3. `git clone https://github.com/Cadene/pretrained-models.pytorch.git`
-4. `cd pretrained-models.pytorch`
-5. `python setup.py install`
+4. `git clone https://github.com/Cadene/pretrained-models.pytorch.git`
+5. `cd pretrained-models.pytorch`
+6. `python setup.py install`
+
+## Referencias
+
+- https://github.com/Cadene/pretrained-models.pytorch
+- Olga Russakovsky *, Jia Deng *, Hao Su, Jonathan Krause, Sanjeev Satheesh, Sean Ma, Zhiheng Huang, Andrej Karpathy, Aditya Khosla, Michael Bernstein, Alexander C. Berg e Li Fei-Fei. (* = contribuição igual) Desafio de reconhecimento visual em grande escala da ImageNet. IJCV, 2015. 
+- https://image-net.org/challenges/LSVRC/2013/
 
 
 #### Proposto para a Faculdade de Engenharia da Computação (FECOMP) da Universidade Federal do Pará (UFPA)
 
-#### Elaborado por Formatado por Edson Martins Cavalcante
+### Elaborado por Formatado por Edson Martins Cavalcante
     
  
